@@ -24,7 +24,9 @@ El objetivo de esta practica consiste en aprender a saber definir bien tipos de 
 Una función `isLeapYear` que devuelva si un año concreto es bisiesto o no. La función deberá recibir como parámetro el año a evaluar y devolverá verdadero o falso según corresponda. Un año bisiesto ocurre en el calendario gregoriano tiene que cumplir lo siguiente:
 
 ***1.  Cada año que es divisible por 4.***
+
 ***2.  Excepto cada año que es divisible por 100.***
+
 ***3. Al menos que el año también sea divisible por 400.***
 
 ````
