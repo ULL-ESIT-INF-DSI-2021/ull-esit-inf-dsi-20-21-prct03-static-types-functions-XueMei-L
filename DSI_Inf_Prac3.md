@@ -50,7 +50,7 @@ console.log(`1997 es un año bisieto? = ${isLeapYear(1997)}`);
 
 Por lo tanto para realizar hemos creado una función, donde vamos a poner estas 3 condiciones, y el resultado es lo siguiente:
 
-![image-20210308001406285](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308001406285.png)
+![image-20210308001406285](imagen/image-20210308001406285.png)
 
 
 
@@ -100,7 +100,7 @@ console.log(`El numero 463 despues de convertirse en factorial es ${Result_eje2}
 
 Para resolver este ejercicio he realizado 3 funciones, donde `invertir` hace que invertir la `cadena` al revés. La función `factorial` simplemente es cuando en el caso de que el numero sea negativo, también para caso de que el numero sea 0.Y Por último en la función `decimalToFactorial` hace que dividir `value` a cada numero, obtener el resto, y así hace la operación hasta que se termine.
 
-![image-20210308001952985](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308001952985.png)
+![image-20210308001952985](imagen/image-20210308001952985.png)
 
 
 
@@ -152,7 +152,7 @@ console.log(`La cadena ${cadena_eje3_1} es valido? \nRespuesta:${Result_eje3_2}`
 
 En la función `isValid` simplemente hace que crear dos string[] para numero y para letras, en caso del numero, elimina todas las letras y guarda en `cadena_s` y por otro lado, el caso de letras, elimina todas las letras y guarda`cadena_num_s`, y luego comparar la longitud de la `cadena_s` con `i`valor de la funcion`cadena_num_s`.
 
-![image-20210308002749496](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308002749496.png)
+![image-20210308002749496](imagen/image-20210308002749496.png)
 
 ### 3.4. Ejercicio 4 - Conversor de estilo
 
@@ -202,7 +202,7 @@ Para realizar este ejercicio,hemos hecho en la funcion `fromSnakeToCamelCase`, r
 
 En el caso de de `fromCamelToSnakeCase`, es más sencillo, ya que simplemente hay que encontrar una letra mayuscula, y antes de dicha letra le añadimos "_"y le cambiamos a minuscula.
 
-![image-20210308003456974](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003456974.png)
+![image-20210308003456974](imagen/image-20210308003456974.png)
 
 ### 3.5. Ejercicio 5 - Un solo golpe
 
@@ -256,7 +256,7 @@ Solo hemos realizamos un pequeño paso para conseguir este ejercicio: si es cade
 
 El resultado es lo siguiente:
 
-![image-20210308003517635](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003517635.png)
+![image-20210308003517635](imagen/image-20210308003517635.png)
 
 ### 3.6. Ejercicio 6 - Conversor ISBN
 
@@ -310,7 +310,7 @@ let Result_eje6_4 = isValidISBN(ISBN_eje6_4);
 console.log(`El ISBN "${ISBN_eje6_4} es valido?": ${Result_eje6_4}`);
 ````
 
-![image-20210308003433510](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003433510.png)
+![image-20210308003433510](imagen/image-20210308003433510.png)
 
 ### 3.7. Ejercicio 7 - El siguiente número
 
@@ -373,7 +373,7 @@ console.log(`${531} -> ${Result_eje7_6}`);
 
 Para el ejercicio 7, lo que hacemos es invertir los dos últimos digitos para conseguir "el siguiente valor", y después comparamos si el resultado es más grande que el valor inicio, en el caso de que si, pues retornamos el resultado, que seria un valor más grande que el valor origen, en el caso contrario, retornará -1;
 
-![image-20210308003408179](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003408179.png)
+![image-20210308003408179](imagen/image-20210308003408179.png)
 
 ### 3.8. Ejercicio 8 - Contando IPs
 
@@ -428,7 +428,7 @@ console.log(`ipsInRange(${IP7}, ${IP8}) == ${Result_eje8_4}`);
 
 
 
-![image-20210308003417195](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003417195.png)
+![image-20210308003417195](imagen/image-20210308003417195.png)
 
 ### 3.9. Ejercicio 9 - Entrenador Pokemon
 
@@ -517,7 +517,7 @@ console.log(`El atacante es: ${attacker}\nEL defensor es: ${defenser}\nEl daño 
 console.log(`--- Bienvenido al mundo de Pokemon ---`);
 ````
 
-![image-20210308003331289](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003331289.png)
+![image-20210308003331289](imagen/image-20210308003331289.png)
 
 ### 3.10. Ejercicio 10 - Validador de nombre usuario
 
@@ -565,7 +565,7 @@ console.log(`El nombre "${username2}" es valido? \nRespuesta: ${Result_eje10_2}`
 
 En este ejercicio hacemos declarar las condiciones necesarias, y luego, aplicar a cada condiciones si se cumple todas las condiciones, puede devolvera verdadero, en el caso contrario, falso.
 
-![image-20210308003351709](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210308003351709.png)
+![image-20210308003351709](imagen/image-20210308003351709.png)
 
 ## 4. Conclusiones
 
